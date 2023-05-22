@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Springboard's Software Engineering Career Track Course](https://www.springboard.com/)
 
-- 🌱 I’m currently learning **Backend Javascript development with Node.js and Express**
+- 🌱 I’m currently learning **Frontend JavaScript based development with React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danielewin8](https://github.com/Danielewin8)
 
