@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Lewin</h1>
 <h3 align="center">A full stack developer from Southern California</h3>
 
-- 🔭 I’m currently working on finishing up [Springboard's Software Engineering Career Track Course](https://www.springboard.com/)
+- 🔭 I have just earned my certification for [Springboard's Software Engineering Career Track Course](https://www.springboard.com/)!
 
-- 🌱 I’m currently learning **Frontend JavaScript based development with React** as well as Data Structures and Algorithms
+- 🌱 I’m currently learning more about and practicing **Frontend JavaScript based development with React** as well as Data Structures and Algorithms
 
 - 👨‍💻 All of my projects are available at [https://github.com/Danielewin8](https://github.com/Danielewin8)
 
